@@ -15,17 +15,22 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB2P5", "ConsoleAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB2P6", "ConsoleAppB2P6\ConsoleAppB2P6.csproj", "{34F87472-00D9-482F-8908-EFEBAB82A3A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppB2P7", "ConsoleAppB2P7\ConsoleAppB2P7.csproj", "{98BB2EE2-9135-4116-8B5E-DB76D0B73606}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB2P7", "ConsoleAppB2P7\ConsoleAppB2P7.csproj", "{98BB2EE2-9135-4116-8B5E-DB76D0B73606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppB2P8", "ConsoleAppB2P8\ConsoleAppB2P8.csproj", "{43D34B1C-AE30-43F4-BBA4-A971661353EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB2P8", "ConsoleAppB2P8\ConsoleAppB2P8.csproj", "{43D34B1C-AE30-43F4-BBA4-A971661353EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppB2P9", "ConsoleAppB2P9\ConsoleAppB2P9.csproj", "{1F00D1D8-D02B-4C2D-A0BD-BD7D31437C92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB2P9", "ConsoleAppB2P9\ConsoleAppB2P9.csproj", "{1F00D1D8-D02B-4C2D-A0BD-BD7D31437C92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppB2P10", "ConsoleAppB2P10\ConsoleAppB2P10.csproj", "{7469230B-F609-4620-A051-3B2BC65FD344}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB2P10", "ConsoleAppB2P10\ConsoleAppB2P10.csproj", "{7469230B-F609-4620-A051-3B2BC65FD344}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppB2P11", "ConsoleAppB2P11\ConsoleAppB2P11.csproj", "{735D1353-7844-4C63-BB4E-DE32C2EFCA45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB2P11", "ConsoleAppB2P11\ConsoleAppB2P11.csproj", "{735D1353-7844-4C63-BB4E-DE32C2EFCA45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppB2P12", "ConsoleAppB2P12\ConsoleAppB2P12.csproj", "{5E644E1E-D58B-41C3-A820-84C13787F140}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB2P12", "ConsoleAppB2P12\ConsoleAppB2P12.csproj", "{5E644E1E-D58B-41C3-A820-84C13787F140}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{0C8E5006-BD8C-427E-8913-0C6229B40C0C}"
+	ProjectSection(SolutionItems) = preProject
+		Challenge.txt = Challenge.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
